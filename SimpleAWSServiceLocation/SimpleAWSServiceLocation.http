@@ -1,0 +1,6 @@
+@SimpleAWSServiceLocation_HostAddress = https://localhost:44302
+
+GET {{SimpleAWSServiceLocation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
